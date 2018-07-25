@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "423515738557",
+    "firebase_url": "https://palmpong-ec3d7.firebaseio.com",
+    "project_id": "palmpong-ec3d7",
+    "storage_bucket": "palmpong-ec3d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423515738557:android:228b32cb1178138f",
+        "android_client_info": {
+          "package_name": "com.HappySquare.PongPing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423515738557-e0l3hrumhssgvsvoaueq05imsvhkdkn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhcgP8ktQxpn-cpEDivKdwfqpXeaK7Q-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 28a6675184f2645089876c1255d72e96
+timeCreated: 1507418838
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Caveat Brush
+  fontNames:
+  - Caveat Brush
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

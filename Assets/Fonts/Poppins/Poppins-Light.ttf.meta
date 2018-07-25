@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d279a804759fd4209ae6a073d3531ddb
+timeCreated: 1507418839
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Poppins
+  fontNames:
+  - Poppins
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 62bb99b1e11734f89a8ac7962ec7efa9, type: 3}
+  - {fileID: 12800000, guid: 4e97d994fa3154e818750a0ffde6e4eb, type: 3}
+  - {fileID: 12800000, guid: 28e1dcc84cbc84f2dac89f225f40cc7a, type: 3}
+  - {fileID: 12800000, guid: 65b6c81e6663c446ea128556957e3b53, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

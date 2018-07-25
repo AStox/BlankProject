@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://palmpong-ec3d7.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">423515738557</string>
+  <string name="google_storage_bucket" translatable="false">palmpong-ec3d7.appspot.com</string>
+  <string name="project_id" translatable="false">palmpong-ec3d7</string>
+  <string name="google_api_key" translatable="false">AIzaSyDhcgP8ktQxpn-cpEDivKdwfqpXeaK7Q-Y</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDhcgP8ktQxpn-cpEDivKdwfqpXeaK7Q-Y</string>
+  <string name="google_app_id" translatable="false">1:423515738557:android:228b32cb1178138f</string>
+  <string name="default_web_client_id" translatable="false">423515738557-e0l3hrumhssgvsvoaueq05imsvhkdkn0.apps.googleusercontent.com</string>
+</resources>
