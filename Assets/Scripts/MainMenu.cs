@@ -16,7 +16,7 @@ public class MainMenu : MonoBehaviour
   {
     if (Settings.Instance.fromLoader)
     {
-      bordersAnim.Play("MainMenuBordersFadeIn");
+      // bordersAnim.Play("MainMenuBordersFadeIn");
       Settings.Instance.fromLoader = false;
     }
     Audio.Instance.backgroundMusic.mute = !Settings.Instance.music;
