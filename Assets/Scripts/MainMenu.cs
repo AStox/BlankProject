@@ -14,8 +14,6 @@ public class MainMenu : MonoBehaviour
 
   void Start()
   {
-    //Animator anim = GetComponent<Animator>();
-    Animator bordersAnim = GameObject.Find("Borders").GetComponent<Animator>();
     if (Settings.Instance.fromLoader)
     {
       bordersAnim.Play("MainMenuBordersFadeIn");
